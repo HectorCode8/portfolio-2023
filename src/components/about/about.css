@@ -7,7 +7,7 @@
 .about__me {
   width: 100%;
   aspect-ratio: 1/1;
-  border-radius: 1rem;
+  border-radius: 2rem;
   background: linear-gradient(
     45deg,
     transparent,
@@ -67,7 +67,6 @@
 
 .about__content p {
   margin: 2rem 0 2.6rem;
-  text-align: justify;
   color: var(--color-light);
 }
 
