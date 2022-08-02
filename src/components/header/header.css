@@ -1,6 +1,6 @@
 header {
   height: 130vh;
-  padding-top: 15rem;
+  padding-top:11rem;
   overflow: hidden;
   
 }
@@ -39,7 +39,7 @@ header {
 
 /* =============== ME ============== */
 .me {
-  padding-top: 5rem;
+  padding-top: 1rem;
   /* background: linear-gradient(var(--color-primary), transparent); */
   height: 70%;
   position: relative;
@@ -48,7 +48,7 @@ header {
   border-radius: 40%;
   overflow: hidden;
   width: 80%;
-  max-width: 25rem;
+  max-width: 30rem;
   margin-top: 2.5rem;
   justify-content: center;
 
