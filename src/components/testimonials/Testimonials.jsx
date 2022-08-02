@@ -20,22 +20,22 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Victor Contreras - Web Sec',
-    review: 'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Great person, inside and outside the professional field. Someone you can trust to solve any obstacle. Highly recommended.'
   },
   {
     avatar: AVTR2,
     name: 'Guztavo Mazatan - Product Manager',
-    review: 'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'From the start of the project, through to completion, Hector supported us and exceeded our expectations in every way. Not only was our experience personal and friendly, his ability to identify and present our key messages in an imaginative and creative way gave us a huge amount of confidence in him. In many ways Hector understood our clients website needs better than we did and he complimented our vision perfectly. He is reliable, professional and easy to work with. I can’t recommend him highly enough and we look forward to continuing our working relationship together.'
   },
   {
     avatar: AVTR3,
     name: 'Christopher Arteaga - Web Dev',
-    review: 'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Hector is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him.'
   },
   {
     avatar: AVTR4,
     name: 'Nelson Gonzalez - Dev Ops',
-    review: 'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Hector is awesome, delivers exactly what you want and is a great guy as well, thanks for all your hard work on my website'
   },
 ]
 
