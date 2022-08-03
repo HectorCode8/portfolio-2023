@@ -19,7 +19,7 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Victor Contreras - Web Sec',
+    name: 'Victor Contreras - Security Engineer',
     review: 'Great person, inside and outside the professional field. Someone you can trust to solve any obstacle. Highly recommended.'
   },
   {
